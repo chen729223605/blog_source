@@ -1,6 +1,6 @@
 ---
 title: 用VisualStudio调试STM32(三)：适配CubeMX生成的代码
-tags: VisualGDB,VisualStudio,STM32
+tags: [VisualGDB,VisualStudio,STM32]
 grammar_cjkRuby: true
 ---
 

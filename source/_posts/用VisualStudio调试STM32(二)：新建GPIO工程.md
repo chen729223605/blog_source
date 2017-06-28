@@ -1,6 +1,6 @@
 ---
 title: 用VisualStudio调试STM32(二)：新建GPIO工程
-tags: VisualGDB,VisualStudio,STM32
+tags: [VisualGDB,VisualStudio,STM32]
 grammar_cjkRuby: true
 ---
 

@@ -163,6 +163,12 @@ social_icons:
 # in site  directory(source/uploads): /uploads/avatar.jpg
 avatar: http://ojm6ggcxb.bkt.clouddn.com/touxiang/touxiang1.jpg
 
+#打赏功能
+reward_comment: 坚持原创技术分享，您的支持将鼓励我继续创作！
+wechatpay: http://ojm6ggcxb.bkt.clouddn.com/pay/wechat.JPG
+alipay: http://ojm6ggcxb.bkt.clouddn.com/pay/Alipay.JPG
+
+since: 2017
 
 # Table Of Contents in the Sidebar
 toc:

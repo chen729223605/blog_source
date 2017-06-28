@@ -1,6 +1,6 @@
 ---
 title: 用VisualStudio调试STM32(一)：VisualGDB 安装配置
-tags: VisualGDB,VisualStudio,STM32
+tags: [VisualGDB,VisualStudio,STM32]
 grammar_cjkRuby: true
 ---
 
