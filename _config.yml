@@ -69,5 +69,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:chen729223605/chen729223605.github.io.git
+  repo: 
+    github: git@github.com:chen729223605/chen729223605.github.io.git
+    oschina: git@git.oschina.net:null_903_7123/null_903_7123.git
+    coding: git@git.coding.net:jarming/jarming.git
   branch: master
